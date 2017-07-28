@@ -1,10 +1,8 @@
-# stuartaroth
-
 *I'm a software engineer and I love solving problems. Professionally I currently use Scala and Go but love learning new technologies.*
 
 ## Projects
 
-### [Programmer's Guide to the Galaxy](http://programmersguidetothegalaxy)
+### [Programmer's Guide to the Galaxy](http://programmersguidetothegalaxy.com)
 
 A tool to quickly get acquainted with the syntax of new languages.
 
