@@ -4,9 +4,9 @@
 
 A tool to quickly get acquainted with the syntax of new languages.
 
-### [hotsockets](http://hotsockets.org)
+### [sql2xlsx](https://github.com/stuartaroth/sql2xlsx)
 
-A cloud ready application to drive browsers through websockets
+A simple GUI application to quilcy pull data out of sql and write it to excel
 
 ### [cueball](https://github.com/stuartaroth/cueball)
 
