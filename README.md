@@ -4,9 +4,8 @@
 
 A tool to quickly get acquainted with the syntax of new languages.
 
-### [sql2xlsx](https://github.com/stuartaroth/sql2xlsx)
-
-A simple GUI application to quilcy pull data out of sql and write it to excel
+### [multiremote](https://github.com/stuartaroth/multiremote)
+A runnable web service to control multiple Rokus
 
 ### [cueball](https://github.com/stuartaroth/cueball)
 
